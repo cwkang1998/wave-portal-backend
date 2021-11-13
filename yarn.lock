@@ -12701,9 +12701,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wave-portal@workspace:.":
+"wave-portal-backend@workspace:.":
   version: 0.0.0-use.local
-  resolution: "wave-portal@workspace:."
+  resolution: "wave-portal-backend@workspace:."
   dependencies:
     "@nomiclabs/hardhat-ethers": ^2.0.2
     "@nomiclabs/hardhat-etherscan": ^2.1.7
