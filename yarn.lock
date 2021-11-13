@@ -6508,43 +6508,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hardhat-project@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "hardhat-project@workspace:."
-  dependencies:
-    "@nomiclabs/hardhat-ethers": ^2.0.2
-    "@nomiclabs/hardhat-etherscan": ^2.1.7
-    "@nomiclabs/hardhat-waffle": ^2.0.1
-    "@typechain/ethers-v5": ^7.2.0
-    "@typechain/hardhat": ^2.3.1
-    "@types/chai": ^4.2.22
-    "@types/mocha": ^9.0.0
-    "@types/node": ^16.11.7
-    "@typescript-eslint/eslint-plugin": ^4.33.0
-    "@typescript-eslint/parser": ^4.33.0
-    chai: ^4.3.4
-    dotenv: ^10.0.0
-    eslint: ^7.32.0
-    eslint-config-prettier: ^8.3.0
-    eslint-config-standard: ^16.0.3
-    eslint-plugin-import: ^2.25.3
-    eslint-plugin-node: ^11.1.0
-    eslint-plugin-prettier: ^3.4.1
-    eslint-plugin-promise: ^5.1.1
-    ethereum-waffle: ^3.4.0
-    ethers: ^5.5.1
-    hardhat: ^2.6.8
-    hardhat-gas-reporter: ^1.0.4
-    prettier: ^2.4.1
-    prettier-plugin-solidity: ^1.0.0-beta.13
-    solhint: ^3.3.6
-    solidity-coverage: ^0.7.17
-    ts-node: ^10.4.0
-    typechain: ^5.2.0
-    typescript: ^4.4.4
-  languageName: unknown
-  linkType: soft
-
 "hardhat@npm:^2.6.8":
   version: 2.6.8
   resolution: "hardhat@npm:2.6.8"
@@ -12737,6 +12700,43 @@ __metadata:
   checksum: c431df0bedf2088b227a4e051e0ff4ca54df2c114096b0c01e1cbaadb021c30a04d7dd5b41ab277bcd51246ca135bf931d4c4c796ecae7a4fef6d744ecef36ea
   languageName: node
   linkType: hard
+
+"wave-portal@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "wave-portal@workspace:."
+  dependencies:
+    "@nomiclabs/hardhat-ethers": ^2.0.2
+    "@nomiclabs/hardhat-etherscan": ^2.1.7
+    "@nomiclabs/hardhat-waffle": ^2.0.1
+    "@typechain/ethers-v5": ^7.2.0
+    "@typechain/hardhat": ^2.3.1
+    "@types/chai": ^4.2.22
+    "@types/mocha": ^9.0.0
+    "@types/node": ^16.11.7
+    "@typescript-eslint/eslint-plugin": ^4.33.0
+    "@typescript-eslint/parser": ^4.33.0
+    chai: ^4.3.4
+    dotenv: ^10.0.0
+    eslint: ^7.32.0
+    eslint-config-prettier: ^8.3.0
+    eslint-config-standard: ^16.0.3
+    eslint-plugin-import: ^2.25.3
+    eslint-plugin-node: ^11.1.0
+    eslint-plugin-prettier: ^3.4.1
+    eslint-plugin-promise: ^5.1.1
+    ethereum-waffle: ^3.4.0
+    ethers: ^5.5.1
+    hardhat: ^2.6.8
+    hardhat-gas-reporter: ^1.0.4
+    prettier: ^2.4.1
+    prettier-plugin-solidity: ^1.0.0-beta.13
+    solhint: ^3.3.6
+    solidity-coverage: ^0.7.17
+    ts-node: ^10.4.0
+    typechain: ^5.2.0
+    typescript: ^4.4.4
+  languageName: unknown
+  linkType: soft
 
 "web3-bzz@npm:1.2.11":
   version: 1.2.11
